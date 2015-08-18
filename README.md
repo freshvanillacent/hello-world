@@ -1,5 +1,4 @@
 # hello-world
-Initial Repository
 
 Why hello.
 
