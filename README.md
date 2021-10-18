@@ -2,4 +2,4 @@
 
 Why hello.
 
-I am Fresh Vanilla Cent, and I have nearly no idea what to do with myself.
+I am Lyddie V, and this is my first repository.
